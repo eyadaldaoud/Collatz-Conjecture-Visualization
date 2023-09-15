@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 ### 4. Run the program
 ```bash
-python Collatz-Conjecture-Visualization
+python collatz.py
 ```
 
 ### 5. Give it a star
