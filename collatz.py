@@ -15,6 +15,7 @@ def Simplest_Math_Problem():
   numbers = []
   
   # Init while loop to keep going untill it reachs 1
+  # If edited to >= it will go into an infinite loop
   while test_number > 1:
     
     # if even devide by 2
